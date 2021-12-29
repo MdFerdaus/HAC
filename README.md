@@ -11,10 +11,10 @@ Necessary steps:
 1. Clone HAC git to your computer, or just download the files.
 2. Open Matlab. The code was developed using Matlab 2018b, so if you use an older version, you might get some incompability errors. You can use Matlab 2018b or newer.
 3. Execute the following files:
-   a) run_SISO.m for example 1
-   b) run_SISO_robotic_arm.m for example 2
-   c) run_MIMO.m for example 3
+    a) run_SISO.m for example 1\\
+    b) run_SISO_robotic_arm.m for example 2\\
+    c) run_MIMO.m for example 3
 4. To plot the figures as displayed in the paper, go inside the "plotting" folder and execute the following files:
-   a) plotting_siso.m (to plot trajectory tracking from example 1 and 2)
-   b) plotting_siso_U.m (to plot control signals from example 1 and 2)
+   a) plotting_siso.m (to plot trajectory tracking from example 1 and 2)\\
+   b) plotting_siso_U.m (to plot control signals from example 1 and 2)\\
    c) plotting_mimo.m (to plot trajectory tracking from example 3)
